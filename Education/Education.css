@@ -1,0 +1,51 @@
+.clair{
+width: 1350px;
+height: 400px;
+float: left;
+margin: 0;
+}
+ul{ 
+    background-color:rgb(12, 36, 36);
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-attachment:scroll;
+}
+li{
+    float: left;
+}
+li a{
+    display: inline-block;
+    color: blanchedalmond;
+    text-align: center;
+    padding:17px 19px;
+    text-decoration:none;
+}
+li a:hover{
+    background-color: black;
+}
+.active{
+ background-color:darkred;
+}
+input{
+   display: inline-block;
+   padding: 10px; 
+   color:black;
+}
+.font{
+    color: brown;
+}
+.submit{
+    background-color: darkred;
+    margin-left: 600px;
+    padding:19px 20px;
+    font-size:20px ;
+   text-decoration-style: none;
+   color: black;
+}
+.margin{
+    margin-top: 100px;
+}
+input :hover{
+    background-color: black;
+}
